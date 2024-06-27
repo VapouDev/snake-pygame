@@ -27,7 +27,7 @@ The rest of the code is properly commented and self-explanatory. Tweaks can be m
 
 ## Screenshots
 
-![1](/ressources/gamecapture.png)
+![1](/ressources/gamecapture2.png)
 *Active game screen*
 
 ![2](https://user-images.githubusercontent.com/32998741/33873440-28647360-df45-11e7-8291-b82d5646352f.png)
